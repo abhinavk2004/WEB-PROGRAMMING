@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Text Style</title>
+</head>
+<body>
+<h1 align="center"><mark>Text Style</mark></h1>
+<p>
+<b><i><u>HTML (Hyper Text Markup Language)</u></i></b> is the most basic building block of the web. It defines the meaning and structure of web content. Other technologies beside HTML are generally used to describe a web page's appearance (CSS) or functionality (javascript)
+</p>
+<p>
+<b>Bold:</b>The "b" tag in HTML is used to specify <b><strike>bold text</strike></b> without any extra importance.
+</p>
+<p>
+<i>italics</i> The "i" tag in HTML defines a part of text in an alternate voice or mood. The content is typically displayed in <i>italics</i>
+</p>
+<p>
+<u>underline:</u>The "u" tag in HTML stands for
+<u>underline</u>  and it is used to underline the text
+</p>
+</body>
+</html>

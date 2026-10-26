@@ -1,0 +1,15 @@
+body{
+font-family:"Times New Roman";
+background-color:gray;width:800px;height:370px;padding:15px;
+}
+h1{
+color:red;
+font-size:23px;
+}
+p{
+color:black;
+font-size:17px;
+}
+img{
+width:800px;
+height:400px;}
